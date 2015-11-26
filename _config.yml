@@ -1,0 +1,55 @@
+# Site settings
+title: AngularJS & Ionic Framework
+email: angularionic@gmail.com
+url: https://angularionic.github.io
+description: "AngularJS & Ionic Framework - Hybride App-Entwicklung mit JavaScript und HTML5"
+subtitle: "Hybride App-Entwicklung mit JavaScript und HTML5"
+meta_author: "Bengt Weiße"
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: disqus
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: angularionic
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 4e8ef7 #18bc9c #80B3FF
+  primary-rgb: "78,142,247" #"128,179,255"
+  secondary: 2155aa #2c3e50 #FD6E8A
+  secondary-dark: 2b3442 #233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Bengt Weiße
+  location: Schaffenszentrum <i class="fa fa-location-arrow"></i>
+  social: 'Im Netz <i class="fa fa-share"></i>'
+  credits: 'Vielen Dank <i class="fa fa-heart"></i>'
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/AngularIonic
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 07743 Jena
+  - line: Zentrum der Macht ...
+  - line: ... im grünen Herzen Deutschlands
+
+# Credits content
+credits: '... an den <a ref="http://www.hanser.de/">Hanser Verlag</a>, Anja Heumann, das Ionic-Team und <a href="https://angularjs.de/">Robin Böhm</a>!<br><small>Diese Seite wurde mit <a href="http://startbootstrap.com">Bootstrap</a> unter der Vorlage des <a href="https://jeromelachaud.github.io/freelancer-theme">Freelancer Themes</a> für das Micro-Blogging System <a href="https://jeromelachaud.github.io/freelancer-theme">Jekyll</a> erstellt.</small>'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
