@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 7
+date: 2014-07-12
+img: submarine.png
+alt: expert
+chapter: 7
+title: AngularJS und Ionic für Fortgeschrittene
+category: Web Development
+description: Zum Abschluss kann sich der interessierte Leser noch über vertiefende Themen der beiden Technologien informieren, die nicht zwingend zur Erstellung einer Ionic-App erforderlich sind. Darunter fällt zum Beispiel die Nutzung der Ionic-Services oder der Umgang mit Animationen in AngularJS. Des Weiteren wird auf die Testbarkeit und das Schreiben von Tests hingewiesen. Um den Leser nicht abzuschrecken, wird wirklich nur freundlich darauf aufmerksam gemacht und besondere Frameworks dazu vorgestellt.
+
+---

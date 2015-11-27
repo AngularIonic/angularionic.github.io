@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 8
+date: 2014-07-11
+img: submarine.png
+alt: final
+chapter: 8
+title: Ausblick
+category: Web Development
+description: Das Buch endet mit einem schnellen und kurzen Ausblick, was mit Angular 2 und Ionic 2 auf uns zu kommen wird.
+---
