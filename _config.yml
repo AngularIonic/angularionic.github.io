@@ -22,6 +22,8 @@ contact: disqus
 # https://help.disqus.com/customer/portal/articles/466208
 disqus_shortname: angularionic
 
+gaID: UA-70717244-1
+
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 4e8ef7 #18bc9c #80B3FF

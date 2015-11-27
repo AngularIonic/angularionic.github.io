@@ -19,6 +19,10 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/freelancer.js" }}"></script>
+    {% if site.gaID %}
+    <!-- Google Analytics Stuff -->
+    {% include js_ga.html %}
+    {% endif %}
 
     {% if site.contact == "disqus" %}
     <!-- Disqus Stuff -->
