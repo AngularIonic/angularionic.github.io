@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2014-07-12
-img: submarine.png
+img: experts.png
 alt: expert
 chapter: 7
 title: AngularJS und Ionic für Fortgeschrittene

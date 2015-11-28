@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: cordova.png
 alt: cordova
 project-date: April 2014
 chapter: 3

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-13
-img: submarine.png
+img: musikmax.png
 alt: musikmax
 chapter: 6
 title: Eine eigene Musikverwaltungs-App erstellen

@@ -13,8 +13,12 @@
                     <div class="col-sm-4 portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
+                                <div class="caption-icon">
+                                    <i class="fa fa-search"></i>
+                                </div>
                                 <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
+                                    <div><b>{{post.chapter}}. Kapitel</b></div>
+                                    <div class="sub">{{post.title}}</div>
                                 </div>
                             </div>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 9
 date: 2014-07-10
-img: me.jpg
+img: me.png
 alt: me
 chapter: 9
 title: Meine Wenigkeit

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 8
 date: 2014-07-11
-img: submarine.png
+img: final.png
 alt: final
 chapter: 8
 title: Ausblick

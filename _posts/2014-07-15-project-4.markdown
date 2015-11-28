@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: angular.png
 alt: angular
 project-date: April 2014
 chapter: 4
