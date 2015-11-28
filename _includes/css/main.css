@@ -463,7 +463,7 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 1px #fff;
     font-size: 20px;
     color: #fff;
     background: 0 0;
@@ -474,9 +474,27 @@ section.success {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #fff;
+    border: solid 1px #fff;
     color: #{{ site.color.primary }};
     background: #fff;
+}
+
+.btn-outline-primary {
+    margin-top: 15px;
+    border: solid 1px #{{ site.color.primary }};
+    font-size: 20px;
+    color: #{{ site.color.primary }};
+    background: 0 0;
+    transition: all .3s ease-in-out;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus,
+.btn-outline-primary:active,
+.btn-outline-primary.active {
+    border: solid 1px #{{ site.color.primary }};
+    color: #fff;
+    background: #{{ site.color.primary }};
 }
 
 .floating-label-form-group {
@@ -596,7 +614,7 @@ footer .footer-below {
 }
 
 .portfolio-modal .modal-content {
-    padding: 100px 0;
+    padding: 0;
     min-height: 100%;
     border: 0;
     border-radius: 0;
@@ -620,38 +638,13 @@ footer .footer-below {
 }
 
 .portfolio-modal .close-modal {
-    position: absolute;
-    top: 25px;
-    right: 25px;
-    width: 75px;
-    height: 75px;
+    float: right;
     background-color: transparent;
     cursor: pointer;
 }
 
 .portfolio-modal .close-modal:hover {
     opacity: .3;
-}
-
-.portfolio-modal .close-modal .lr {
-    z-index: 1051;
-    width: 1px;
-    height: 75px;
-    margin-left: 35px;
-    background-color: #{{ site.color.secondary }};
-    -webkit-transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    transform: rotate(45deg);
-}
-
-.portfolio-modal .close-modal .lr .rl {
-    z-index: 1052;
-    width: 1px;
-    height: 75px;
-    background-color: #{{ site.color.secondary }};
-    -webkit-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(90deg);
 }
 
 .navbar-nav>.active>a {
@@ -663,4 +656,12 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+.modal-body {
+    max-width: 800px;
+    text-align: center;
+    margin: 0 auto;
+}
+.modal-body img {
+    border-radius: 20px;
 }
