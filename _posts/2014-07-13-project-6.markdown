@@ -7,6 +7,5 @@ alt: musikmax
 chapter: 6
 title: Eine eigene Musikverwaltungs-App erstellen
 category: Web Development
-description: In diesem Kapitel wird Stück für Stück eine App realisiert, die die eigene Musiksammlung katalogisieren kann. Von einer kurzen Konzeptionsphase, über das Erstellen des Navigationskonzepts und dem Aufbau der Grundstruktur, bis hin zur Einbindung eines Cordova-Plugins wird hier alles erklärt. Den kompletten Quellcode der App gibt es auf GitHub!
-
+description: In diesem Kapitel wird Stück für Stück eine App realisiert, die die eigene Musiksammlung katalogisieren kann. Von einer kurzen Konzeptionsphase, über das Erstellen des Navigationskonzepts und dem Aufbau der Grundstruktur, bis hin zur Einbindung eines Cordova-Plugins wird hier alles erklärt. Den kompletten Quellcode der App gibt es auf <b><a href="https://github.com/AngularIonic/MusikMax" target="_blank">GitHub</a></b>!
 ---

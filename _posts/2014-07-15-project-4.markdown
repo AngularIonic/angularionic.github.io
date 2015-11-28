@@ -8,6 +8,6 @@ project-date: April 2014
 chapter: 4
 title: AngularJS
 category: Web Development
-description: AngularJS ist der Grundstein vom Ionic Framework und somit fester Bestandteil der Technologie. Zur Entwicklung eigener Apps mit Ionic ist das Verständis von AngularJS unerlässlich. Das gleichnamige Kapitel vermittelt daher das nötige Wissen für die spätere Verwendung des Ionic Frameworks.  
+description: AngularJS ist der Grundstein vom Ionic Framework und somit fester Bestandteil der Technologie. Zur Entwicklung eigener Apps mit Ionic ist das Verständis von AngularJS daher unerlässlich. Das gleichnamige Kapitel vermittelt darum das nötige Wissen für die spätere Verwendung des Ionic Frameworks.  
 
 ---

@@ -7,6 +7,6 @@ alt: ionic
 chapter: 5
 title: Ionic Framework
 category: Web Development
-description: Hier wird alles erklärt, was zum Ionic Universum gehört. Im Speziellen wird das Framwork vorgestellt und mit vielen praktischen Beispielen erklärt. Das Kapitel gibt dem Lesern das nötige Rüstzeug in die Hand seine erste mobile App zu entwickeln.
+description: Hier wird alles beschrieben, was zum Ionic-Universum gehört. Im Speziellen wird das Framwork vorgestellt und mit vielen praktischen Beispielen erklärt. Das Kapitel gibt dem Lesern das nötige Rüstzeug in die Hand seine erste mobile App zu entwickeln.
 
 ---
