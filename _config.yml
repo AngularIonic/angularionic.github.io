@@ -50,7 +50,7 @@ address:
   - line: ... im grünen Herzen Deutschlands
 
 # Credits content
-credits: '... an den <a target="_blank" href="http://www.hanser.de/">Hanser Verlag</a>, Anja Heumann, das Ionic-Team und <a target="_blank" href="https://angularjs.de/">Robin Böhm</a>!<br><small>Diese Seite wurde mit <a target="_blank" href="http://startbootstrap.com">Bootstrap</a> unter der Vorlage des <a target="_blank" href="https://jeromelachaud.github.io/freelancer-theme">Freelancer Themes</a> für das Micro-Blogging System <a target="_blank" href="http://jekyllrb.com/">Jekyll</a> erstellt.</small>'
+credits: '... an den <a target="_blank" href="http://www.hanser.de/">Hanser Verlag</a>, Anja Heumann, das <a target="_blank" href="http://ionicframework.com">Ionic-Team</a>, <a target="_blank" href="https://angularjs.de/">Robin Böhm</a> und der <a href="http://webatlas-gbr.de/" target="_blank">WebAtlas GbR</a> aka <a href="http://ionicframework.de/" target="_blank">Ionic Germany</a>!<br><small>Diese Seite wurde mit <a target="_blank" href="http://startbootstrap.com">Bootstrap</a> unter der Vorlage des <a target="_blank" href="https://jeromelachaud.github.io/freelancer-theme">Freelancer Themes</a> für das Micro-Blogging System <a target="_blank" href="http://jekyllrb.com/">Jekyll</a> erstellt.</small>'
 
 # Build settings
 markdown: kramdown
